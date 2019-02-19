@@ -1,0 +1,57 @@
+1-Sequence :
+              <{80}> count: 3
+              <{50}> count: 3
+              <{20}> count: 3
+              <{70}> count: 3
+              <{40}> count: 3
+              <{90}> count: 2
+              <{10}> count: 3
+              <{30}> count: 3
+
+
+=>The total number of 1-Sequence = 8
+
+2-Sequence :
+              <{30,70}> count: 3
+              <{30}{70}> count: 3
+              <{20}{80}> count: 2
+              <{70}{70}> count: 2
+              <{30,80}> count: 2
+              <{30}{80}> count: 2
+              <{40}{40}> count: 3
+              <{30,20}> count: 3
+              <{20}{30}> count: 2
+              <{10,40}> count: 3
+              <{10}{40}> count: 3
+              <{70,80}> count: 3
+              <{80}{70}> count: 2
+              <{20}{70}> count: 3
+              <{70,20}> count: 2
+              <{30}{30}> count: 2
+
+
+=>The total number of 2-Sequence = 16
+
+3-Sequence :
+              <{30,20}{30}> count: 2
+              <{30,20}{80}> count: 2
+              <{30}{30,70}> count: 2
+              <{30,70,80}> count: 2
+              <{30}{70,80}> count: 2
+              <{30,70,20}> count: 2
+              <{30,20}{70}> count: 3
+              <{20}{30,70}> count: 2
+              <{10,40}{40}> count: 3
+              <{20}{70,80}> count: 2
+              <{70,80}{70}> count: 2
+
+
+=>The total number of 3-Sequence = 11
+
+4-Sequence :
+              <{30,20}{30,70}> count: 2
+              <{30,20}{70,80}> count: 2
+
+
+=>The total number of 4-Sequence = 2
+
